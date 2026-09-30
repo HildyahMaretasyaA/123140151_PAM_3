@@ -1,5 +1,3 @@
-# 📱 My Profile App
-
 Praktikum Pertemuan 3 — Compose Multiplatform Basics  
 **IF25-22017 Pengembangan Aplikasi Mobile**  
 Program Studi Teknik Informatika · Institut Teknologi Sumatera
@@ -17,7 +15,6 @@ My Profile App merupakan aplikasi berbasis multiplatform yang dikembangkan mengg
 | Tampilan Aplikasi |
 |---|
 |<img width="134" height="298" alt="hasil" src="https://github.com/user-attachments/assets/e3e62153-a1b4-4892-a5b6-7cb9e568b9e8" />
- |
 
 ---
 
